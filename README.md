@@ -1,4 +1,4 @@
-# Hi there, im Yovsky! 👋
+# Hi there! 👋
 📍 Currently in Algiers, Algeria 🇩🇿          
 🧑‍🎓 High school (12th grade).
 
