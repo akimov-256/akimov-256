@@ -16,8 +16,11 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat&logo=css&logoColor=white)
+![C](https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004483?style=flat&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F1502F?style=flat&logo=git&logoColor=white)
 
