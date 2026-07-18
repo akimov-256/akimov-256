@@ -29,13 +29,13 @@
 ## 📈 Stats
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yovsky&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akimov-256&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Yovsky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yovsky&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yovsky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akimov-256&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
