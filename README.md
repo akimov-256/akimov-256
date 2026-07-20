@@ -35,6 +35,13 @@
 
 <div align="center">
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=akimov-256&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=akimov-256&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=akimov-256&layout=compact&langs_count=8&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=akimov-256&layout=compact&langs_count=8&theme=transparent)
+
+</div>
+
+<div align="center">
+
 [![Yovsky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akimov-256&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffd700)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
